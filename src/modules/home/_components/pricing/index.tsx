@@ -68,7 +68,7 @@ function Pricing() {
                 <div className="flex relative">
                   {plan.featured && (
                     <div className="rounded-none badge badge-info top-0 right-0 absolute">
-                      Best Price
+                      Best Pricesss
                     </div>
                   )}
                   <div className={clsx("h-32 w-[40%] p-4", planBGs[index])}>
