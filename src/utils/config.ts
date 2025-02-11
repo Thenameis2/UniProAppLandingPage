@@ -133,13 +133,13 @@ const templateConfig: TemplateConfig = {
           title: "Explore Service Providers",
           subtitle:
             "Navigate through the app to discover various service providers.",
-          image: "public/stock/explore.PNG",
+          image: "/stock/explore.PNG",
         },
         {
           title: "Connect with Others",
           subtitle:
             "Start connecting with friends, colleagues, and like-minded individuals to expand your network and collaborate efficiently.",
-          image: "/public/stock/chat.PNG",
+          image: "/stock/chat.PNG",
         },
       ],
     },
