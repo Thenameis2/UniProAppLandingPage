@@ -14,7 +14,7 @@ const templateConfig: TemplateConfig = {
   forceTheme: false,
   // Shows switch to toggle between dark and light modes
   showThemeSwitch: true,
-  appStoreLink: "https://apps.apple.com/us/app/google/id284815942",
+  appStoreLink: "https://www.apple.com/app-store/",
   googlePlayLink:
     "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
   footer: {
@@ -24,9 +24,9 @@ const templateConfig: TemplateConfig = {
       privacyPolicy: true,
     },
     socials: {
-      instagram: "https://instagram.com/google",
-      facebook: "https://facebook.com/google",
-      twitter: "https://x.com/google",
+      instagram: "https://instagram.com",
+      facebook: "https://facebook.com",
+      twitter: "https://x.com",
     },
     links: [
       { href: "/#features", title: "Features" },
