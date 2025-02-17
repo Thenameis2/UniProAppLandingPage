@@ -211,9 +211,9 @@ const templateConfig: TemplateConfig = {
       subtitle:
         "Connect with fellow students, offer your services, discover campus events, and build your professional network – all in one platform.",
       screenshots: [
-        "/screenshots/events.PNG",
-        "/screenshots/network.PNG",
-        "/screenshots/services.PNG",
+        "/screenshots/Events.PNG",
+        "/screenshots/Network.PNG",
+        "/screenshotS/Services.PNG",
       ],
       // rewards: ["App of the year \n 1st", "Product of the day"],
       // usersDescription: "100+ people already using the app",
