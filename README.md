@@ -1,6 +1,6 @@
 # UniPro Mobile App Landing Page 
 
-This project is a landing page template for the UniPro mobile apps, built with Astro, React, TypeScript, TailwindCSS, and DaisyUI. It offers seamless theme support using all the available themes from DaisyUI.
+This project is a landing page for the UniPro mobile app, built with Astro, React, TypeScript, TailwindCSS, and DaisyUI. It offers seamless theme support using all the available themes from DaisyUI.
 
 ## Features
 - Built with Astro & React: Combines the power of Astro for static rendering with the flexibility of React for interactive components.
