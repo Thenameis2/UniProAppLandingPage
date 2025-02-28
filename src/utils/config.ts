@@ -54,8 +54,8 @@ const templateConfig: TemplateConfig = {
       "",
       screenshots: [
         "/screenshots/services.PNG",
-        "/screenshots/events.PNG",
         "/screenshots/network.PNG",
+        "/screenshots/provider.PNG",
       
       ],
   },
@@ -211,7 +211,7 @@ const templateConfig: TemplateConfig = {
       subtitle:
         "Connect with fellow students, offer your services, discover campus events, and build your professional network – all in one platform.",
       screenshots: [
-        "/screenshots/events.PNG",
+        "/screenshots/provider.PNG",
         "/screenshots/network.PNG",
         "/screenshots/services.PNG",
       ],
